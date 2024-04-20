@@ -1,0 +1,12 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{05FEE2DD-4761-7CD3-FF25-328C59BC1B3A}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "Faceware4Unreal",
+			"Enabled": false
+		}
+	]
+}
